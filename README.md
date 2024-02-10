@@ -1,3 +1,4 @@
+![logo](https://github.com/Mannegiri/Mannegiri/blob/main/LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Meghana Annegiri</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 
